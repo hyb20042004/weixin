@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/food/food"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#009100",
+    "navigationBarTitleText": "达拉特旗信用联社—综合办公室",
+    "navigationBarTextStyle":"#fff"
+  }
+}
